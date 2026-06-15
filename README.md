@@ -123,7 +123,7 @@ UART 事件回调函数
 
 ## 论坛社区
 
-https://forumschinese.quectel.com/c/66-category/66
+[点此进入](https://forumschinese.quectel.com/c/66-category/66)
 
 ## 贡献指南
 
